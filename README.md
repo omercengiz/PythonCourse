@@ -10,7 +10,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 ## Syllabus
 
-### [Lesson 0](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Probabilty)
+### [Lesson 0](https://github.com/omercengiz/PythonCourse/blob/master/Day0.ipynb)
 - What is Python?
 - Version Control
 - Comments
@@ -19,22 +19,22 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Arithmetic Operations
 - Logical Operations
 
-### [Lesson 1](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Data%20Prep)
+### [Lesson 1](https://github.com/omercengiz/PythonCourse/blob/master/Day1.ipynb)
 - Type Conversion
 - Indexing and Slicing on Strings
 - Lists
 
-### [Lesson 2](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Logistic%20Regression)
+### [Lesson 2](https://github.com/omercengiz/PythonCourse/blob/master/Day2.ipynb)
 - If Conditions
 - While Loop
 - For Loop
 
-### [Lesson 3](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Decision%20Trees)
+### [Lesson 3](https://github.com/omercengiz/PythonCourse/blob/master/Day3.ipynb)
 - Dictionaries
 - Sets
 - Tuples
 
-### [Lesson 4](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Unsupervised%20Learning)
+### [Lesson 4](https://github.com/omercengiz/PythonCourse/blob/master/Day4.ipynb)
 - Functions
 - Return Statements
 - Lambda Function
@@ -42,7 +42,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Modules
 
 
-### [Lesson 5](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Unsupervised%20Learning)
+### [Lesson 5](https://github.com/omercengiz/PythonCourse/blob/master/Day5.ipynb)
 - Try-Except
 - Introduction to OOP
 - Introduction to NumPy
