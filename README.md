@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
-</div>
-
 # Welcome to our Introduction to Python Programming Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-python-programming/)
